@@ -16,3 +16,7 @@ function getArgs(args){
 const someName= (firstName, lasName)=>{
     return firstName+lasName;
 }
+
+
+getName();
+getArgs("Test", "User");
